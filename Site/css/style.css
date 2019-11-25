@@ -1,0 +1,60 @@
+﻿* {
+	padding: 0px;
+	margin: 0px;
+
+}
+ body {
+    font: 14px Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
+    margin: 0; 
+    border: 10px solid #333;
+    background: #C0C0C0; 
+   }
+   h1 {
+    font-size: 36px; 
+    margin: 0; 
+    color: #fc6; 
+    text-align: center;
+   }
+   h2 {
+    margin-top: 0; 
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+   }
+   .header {
+    background: #0080c0;
+    padding: 20px; 
+
+   }
+   .sidebar {
+    float: left; 
+    border: 7px solid #333; 
+    width: 15%; 
+    padding: 40px; 
+    margin: 10px 10px 20px 5px;
+     background: #A9A9A9;
+   }
+   .content {
+    margin: 10px 5px 20px 25%; 
+    padding: 111px; 
+    border: 1px solid #333; 
+     background: #0080c0;
+   }
+   .footer {
+    background: #333; 
+    padding: 5px; 
+    color: #fff; 
+    clear: left; 
+   }
+
+   a {
+   	font-size: 22px;
+   	position: relative;
+    text-decoration: none;
+
+   }
+
+   h3 {
+   	text-align: justify;
+   	font-size: 20px;
+   }
